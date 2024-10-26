@@ -5,7 +5,7 @@ using namespace std;
     cout << "Bilangan" << endl;
     cout << "Ganjil : ";
     
-    for (int i = 1; i <= 73; i += 2) {  
+    for (int i = 1; i <= 35; i += 2) {  
         cout << i << " ";
     }
     cout << endl << "Genap  : ";
